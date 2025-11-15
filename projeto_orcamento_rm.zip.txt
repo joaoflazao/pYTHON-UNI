@@ -1,0 +1,8 @@
+projeto_orcamento_rm.zip
+ -projeto_orcamento_rm/
+    - orcamento.py                           # CÓDIGO FONTE (Parte Prática - 4,0 pts)
+    - README.md                              # Documentação de execução e overview do projeto (GitHub)
+    - exemplos/
+     - orcamento_12_meses_exemplo.csv        # CSV de exemplo gerado pelo código (Funcionalidade Requerida)
+    - fluxograma_e_logica.pdf                # PARTE TEÓRICA (Fluxograma e Lógica Principal - 2,0 pts)
+    -pitch_roteiro.txt                       # Roteiro do seu Vídeo Pitch (Ajuda na gravação - 2,0 pts)
